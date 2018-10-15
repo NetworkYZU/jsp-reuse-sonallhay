@@ -17,7 +17,7 @@
             <!--
             利用 jsp:include 來加入 /WEB=INF/ContactSection.jsp
             -->
-           
+           <jsp:include  page= "/WEB-INF/ContactSection.jsp"/>
         </div>
     </body>
 </html>
